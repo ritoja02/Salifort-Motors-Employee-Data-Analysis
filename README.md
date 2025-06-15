@@ -25,6 +25,7 @@ Based on the relationship between the variables in the dataset, 2 modelling appr
 ## 📁 Contents
 
 Dataset used : https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv
+Jupyter notebook for EDA and Model building : https://github.com/ritoja02/Salifort-Motors-Employee-Data-Analysis/blob/main/Employee_retention.ipynb
 
 ---
 
